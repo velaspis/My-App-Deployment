@@ -1,11 +1,11 @@
 import "./App.scss";
-import loupe from "./loupe.png";
-import masa from "./masa.png";
-import turnoff from "./turnoff.png";
-import profile from "./profile.png";
-import fcb from "./fcb.png";
-import drop from "./drop.png";
-import rightar from "./rightar.png";
+import loupe from "./addons/loupe.png";
+import masa from "./addons/masa.png";
+import turnoff from "./addons/turnoff.png";
+import profile from "./addons/profile.png";
+import fcb from "./addons/fcb.png";
+import drop from "./addons/drop.png";
+import rightar from "./addons/rightar.png";
 
 function App() {
   return (
